@@ -1,3 +1,6 @@
+GitHub同步命令:
 git add .
 git commit -m '更新说明'
 git push
+vercel部署命令:
+vercel --prod
